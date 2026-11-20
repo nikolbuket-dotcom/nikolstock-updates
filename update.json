@@ -1,6 +1,6 @@
 {
   "version": "0.12.1",
   "installer": "https://github.com/nikolbuket-dotcom/nikolstock-updates/releases/download/v0.12.1/NikolStock-Setup-0.12.1.exe",
-  "sha256": "7f2e4a5fb8ed62b870cd52cd8985d3a52f5b2e9a70e9ea3426ff6d87a2b64356",
+  "sha256": "0c52fed04279985836ef177c8573760f1a21c2008f74e32bef7bd8cd1b914419",
   "notes": "Первый релиз с автоматическим обновлением; единый номер версии 0.12.1"
 }
