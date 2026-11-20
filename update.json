@@ -1,6 +1,6 @@
 {
-  "version": "0.12.1",
-  "installer": "https://github.com/nikolbuket-dotcom/nikolstock-updates/releases/download/v0.12.1/NikolStock-Setup-0.12.1.exe",
-  "sha256": "0c52fed04279985836ef177c8573760f1a21c2008f74e32bef7bd8cd1b914419",
-  "notes": "Первый релиз с автоматическим обновлением; единый номер версии 0.12.1"
+  "version": "0.13.0",
+  "installer": "https://github.com/nikolbuket-dotcom/nikolstock-updates/releases/download/v0.13.0/NikolStock-Setup-0.13.0.exe",
+  "sha256": "6198539b84b033f9650a63b9c40e5380853780afc4393928f45065dbafbac82b",
+  "notes": "Режим синхронизации с основным ПК (второй ПК работает с общей базой)"
 }
