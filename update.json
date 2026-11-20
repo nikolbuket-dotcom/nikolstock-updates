@@ -1,6 +1,6 @@
 {
-  "version": "0.13.0",
-  "installer": "https://github.com/nikolbuket-dotcom/nikolstock-updates/releases/download/v0.13.0/NikolStock-Setup-0.13.0.exe",
-  "sha256": "6198539b84b033f9650a63b9c40e5380853780afc4393928f45065dbafbac82b",
-  "notes": "Режим синхронизации с основным ПК (второй ПК работает с общей базой)"
+  "version": "0.13.1",
+  "installer": "https://github.com/nikolbuket-dotcom/nikolstock-updates/releases/download/v0.13.1/NikolStock-Setup-0.13.1.exe",
+  "sha256": "ab73734955bf7b8f1a4c0e9cf7d1a7edb0d5f3e6cb90875edc96285a63e30075",
+  "notes": "Исправление чтения connection.json с BOM (режим синхронизации)"
 }
