@@ -1,6 +1,6 @@
 {
-  "version": "0.14.0",
-  "installer": "https://github.com/nikolbuket-dotcom/nikolstock-updates/releases/download/v0.14.0/NikolStock-Setup-0.14.0.exe",
-  "sha256": "e64c840d709238e54db8d11365be941d16f0541524d2ed2d36d24367f2e634a5",
-  "notes": "Кассовые смены и Z-отчёт; роль «Кассир»; оплата только в открытой смене"
+  "version": "0.14.1",
+  "installer": "https://github.com/nikolbuket-dotcom/nikolstock-updates/releases/download/v0.14.1/NikolStock-Setup-0.14.1.exe",
+  "sha256": "aee535caa22ddc54f379bb18118ec88340e927a3fd5f0015425512326ee5aef0",
+  "notes": "Перезапуск сервера из интерфейса администратора (с записью в журнал)"
 }
