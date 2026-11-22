@@ -1,6 +1,6 @@
 {
-  "version": "0.14.1",
-  "installer": "https://github.com/nikolbuket-dotcom/nikolstock-updates/releases/download/v0.14.1/NikolStock-Setup-0.14.1.exe",
-  "sha256": "aee535caa22ddc54f379bb18118ec88340e927a3fd5f0015425512326ee5aef0",
-  "notes": "Перезапуск сервера из интерфейса администратора (с записью в журнал)"
+  "version": "0.14.2",
+  "installer": "https://github.com/nikolbuket-dotcom/nikolstock-updates/releases/download/v0.14.2/NikolStock-Setup-0.14.2.exe",
+  "sha256": "a29ec1188677cd90410d2c4e77a1fcbde577d5aeb7c24daaab35413fec61a8f0",
+  "notes": "Сведения о программе; установщик всегда обновляет интерфейс; сервер останавливается сам перед обновлением"
 }
