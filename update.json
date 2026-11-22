@@ -1,6 +1,6 @@
 {
-  "version": "0.13.1",
-  "installer": "https://github.com/nikolbuket-dotcom/nikolstock-updates/releases/download/v0.13.1/NikolStock-Setup-0.13.1.exe",
-  "sha256": "3ecae477014008d95457d1faa0d89db5f874e4b2088194823a9056650bbc7fba",
-  "notes": "Исправление чтения connection.json с BOM (режим синхронизации)"
+  "version": "0.14.0",
+  "installer": "https://github.com/nikolbuket-dotcom/nikolstock-updates/releases/download/v0.14.0/NikolStock-Setup-0.14.0.exe",
+  "sha256": "e64c840d709238e54db8d11365be941d16f0541524d2ed2d36d24367f2e634a5",
+  "notes": "Кассовые смены и Z-отчёт; роль «Кассир»; оплата только в открытой смене"
 }
