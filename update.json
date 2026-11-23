@@ -1,1 +1,6 @@
-{"version":"0.18.4","url":"https://github.com/nikolbuket-dotcom/nikolstock-updates/releases/download/v0.18.4/NikolStock-Setup-0.18.4.exe","sha256":"ef308c82a9aa10bf073801cebd0c06b6296e8e215f4e9ad93477d06074e96eed","notes":"Меню слева, выдвижное по кнопке. В Продаже панель Список товаров с кнопками Сохранить заказ и Оплата."}
+{
+  "version": "0.19.0",
+  "installer": "https://github.com/nikolbuket-dotcom/nikolstock-updates/releases/download/v0.19.0/NikolStock-Setup-0.19.0.exe",
+  "sha256": "76445c237da110bdf4c4dac8e624367b2f4a1d2a6eae573bb5a77f8d2d1589e3",
+  "notes": "Фискализация 54-ФЗ: печать чеков на ККТ АТОЛ (драйвер из Posiflora), оплата картой через терминал Сбербанка, панель ККТ в «Кассе», настройки у администратора."
+}
