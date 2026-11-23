@@ -1,6 +1,6 @@
 {
-  "version": "0.19.1",
-  "installer": "https://github.com/nikolbuket-dotcom/nikolstock-updates/releases/download/v0.19.1/NikolStock-Setup-0.19.1.exe",
-  "sha256": "e38b9e805c9f56b6183a1984454975e6e5ca9863232a0fd58683852734116248",
-  "notes": "Продавец (роль «Продавец») получил разделы «Продажа» и «Касса» и права на смены, ККТ и оплату картой — как у кассира."
+  "version": "0.19.2",
+  "installer": "https://github.com/nikolbuket-dotcom/nikolstock-updates/releases/download/v0.19.2/NikolStock-Setup-0.19.2.exe",
+  "sha256": "2fceaad5247cb1da23552ccb417e07c3519c656eb1afc3dc70e8fecf3c1687db",
+  "notes": "Продавец может открывать смену; экран «Касса» устойчив к старым данным; ошибки интерфейса показываются на экране."
 }
