@@ -1,6 +1,6 @@
 {
-  "version": "0.19.2",
-  "installer": "https://github.com/nikolbuket-dotcom/nikolstock-updates/releases/download/v0.19.2/NikolStock-Setup-0.19.2.exe",
-  "sha256": "2fceaad5247cb1da23552ccb417e07c3519c656eb1afc3dc70e8fecf3c1687db",
-  "notes": "Продавец может открывать смену; экран «Касса» устойчив к старым данным; ошибки интерфейса показываются на экране."
+  "version": "0.19.3",
+  "installer": "https://github.com/nikolbuket-dotcom/nikolstock-updates/releases/download/v0.19.3/NikolStock-Setup-0.19.3.exe",
+  "sha256": "9d8a3a58a7537b0c94f4de45856ba3be88aa6d16f4789e68cb7b7f5d0ab127d7",
+  "notes": "Роли «Продавец» и «Кассир» объединены в «Продавец-кассир» (миграция автоматическая). Доступа два: продавец-кассир и администратор."
 }
