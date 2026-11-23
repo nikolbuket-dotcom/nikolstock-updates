@@ -1,6 +1,6 @@
 {
-  "version": "0.19.4",
-  "installer": "https://github.com/nikolbuket-dotcom/nikolstock-updates/releases/download/v0.19.4/NikolStock-Setup-0.19.4.exe",
-  "sha256": "b55cada72afefa0dfbbf0368ad3c1c5629e9a0468026efa9091000da13e210bc",
-  "notes": "Исправлено «Касса»: пустой экран при открытой смене (ошибка отрисовки статистики)."
+  "version": "0.19.5",
+  "installer": "https://github.com/nikolbuket-dotcom/nikolstock-updates/releases/download/v0.19.5/NikolStock-Setup-0.19.5.exe",
+  "sha256": "0369d7a4240868766b91570fdc7b1bc44b2bee0f8a53554c608f5762084bc0f4",
+  "notes": "Автообновление без запроса: программа ставит новую версию сама при запуске."
 }
