@@ -1,6 +1,6 @@
 {
-  "version": "0.19.0",
-  "installer": "https://github.com/nikolbuket-dotcom/nikolstock-updates/releases/download/v0.19.0/NikolStock-Setup-0.19.0.exe",
-  "sha256": "76445c237da110bdf4c4dac8e624367b2f4a1d2a6eae573bb5a77f8d2d1589e3",
-  "notes": "Фискализация 54-ФЗ: печать чеков на ККТ АТОЛ (драйвер из Posiflora), оплата картой через терминал Сбербанка, панель ККТ в «Кассе», настройки у администратора."
+  "version": "0.19.1",
+  "installer": "https://github.com/nikolbuket-dotcom/nikolstock-updates/releases/download/v0.19.1/NikolStock-Setup-0.19.1.exe",
+  "sha256": "e38b9e805c9f56b6183a1984454975e6e5ca9863232a0fd58683852734116248",
+  "notes": "Продавец (роль «Продавец») получил разделы «Продажа» и «Касса» и права на смены, ККТ и оплату картой — как у кассира."
 }
