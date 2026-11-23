@@ -1,6 +1,6 @@
 {
-  "version": "0.19.6",
-  "installer": "https://github.com/nikolbuket-dotcom/nikolstock-updates/releases/download/v0.19.6/NikolStock-Setup-0.19.6.exe",
-  "sha256": "d0afa70db763eeec44524010c5c8968a1d84023377d3d9ba481eb6f04dba35da",
-  "notes": "Касса привязана к кассиру: продавать может только открывший смену (или админ); новая смена — только после закрытия текущей."
+  "version": "0.19.7",
+  "installer": "https://github.com/nikolbuket-dotcom/nikolstock-updates/releases/download/v0.19.7/NikolStock-Setup-0.19.7.exe",
+  "sha256": "ae5e12032177f371e83c41e0dbae30c46c6d22526be71a1347a0434aef4f3fe5",
+  "notes": "На экране входа: ссылка на адрес программы в браузере (доступ администратора) и версия."
 }
