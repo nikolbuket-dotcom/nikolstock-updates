@@ -1,6 +1,6 @@
 {
-  "version": "0.19.7",
-  "installer": "https://github.com/nikolbuket-dotcom/nikolstock-updates/releases/download/v0.19.7/NikolStock-Setup-0.19.7.exe",
-  "sha256": "ae5e12032177f371e83c41e0dbae30c46c6d22526be71a1347a0434aef4f3fe5",
-  "notes": "На экране входа: ссылка на адрес программы в браузере (доступ администратора) и версия."
+  "version": "0.19.8",
+  "installer": "https://github.com/nikolbuket-dotcom/nikolstock-updates/releases/download/v0.19.8/NikolStock-Setup-0.19.8.exe",
+  "sha256": "ef409e26a2431f23920c985ad50861e087fe0c09214ef4b2181fdbf178cd3ebd",
+  "notes": "Экраны сами обновляются при обновлении сервера; на экране входа — ссылка администратора и версия."
 }
