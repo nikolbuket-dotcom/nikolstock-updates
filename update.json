@@ -1,6 +1,6 @@
 {
-  "version": "0.19.9",
-  "installer": "https://github.com/nikolbuket-dotcom/nikolstock-updates/releases/download/v0.19.9/NikolStock-Setup-0.19.9.exe",
-  "sha256": "a47e2dc46e55985268bd2d294fcf1092255770dc1d76fa7bdaab858bc32dcfbe",
-  "notes": "Добавлены понятные сообщения о состоянии смены при входе, открытии и закрытии; индикатор смены в шапке; предупреждение о смене старше 24 часов."
+  "version": "0.19.10",
+  "installer": "https://github.com/nikolbuket-dotcom/nikolstock-updates/releases/download/v0.19.10/NikolStock-Setup-0.19.10.exe",
+  "sha256": "68bc5482662edc1353595f71fcd953ae75c1760d693c8fb7edd83cd261533983",
+  "notes": "Исправлен запуск программы: одноимённое служебное окно проводника больше не мешает открыть «Николь Торговля» из папки или через ярлык."
 }
