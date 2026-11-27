@@ -1,6 +1,6 @@
 {
   "version": "0.19.9",
   "installer": "https://github.com/nikolbuket-dotcom/nikolstock-updates/releases/download/v0.19.9/NikolStock-Setup-0.19.9.exe",
-  "sha256": "3394dd50846abb6cdc6e20195ed69c335cc748612a40fca47e4fdc1fde1e0aca",
+  "sha256": "a47e2dc46e55985268bd2d294fcf1092255770dc1d76fa7bdaab858bc32dcfbe",
   "notes": "Добавлены понятные сообщения о состоянии смены при входе, открытии и закрытии; индикатор смены в шапке; предупреждение о смене старше 24 часов."
 }
