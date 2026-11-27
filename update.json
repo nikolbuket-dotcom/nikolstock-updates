@@ -1,6 +1,6 @@
 {
-  "version": "0.19.8",
-  "installer": "https://github.com/nikolbuket-dotcom/nikolstock-updates/releases/download/v0.19.8/NikolStock-Setup-0.19.8.exe",
-  "sha256": "ef409e26a2431f23920c985ad50861e087fe0c09214ef4b2181fdbf178cd3ebd",
-  "notes": "Экраны сами обновляются при обновлении сервера; на экране входа — ссылка администратора и версия."
+  "version": "0.19.9",
+  "installer": "https://github.com/nikolbuket-dotcom/nikolstock-updates/releases/download/v0.19.9/NikolStock-Setup-0.19.9.exe",
+  "sha256": "3394dd50846abb6cdc6e20195ed69c335cc748612a40fca47e4fdc1fde1e0aca",
+  "notes": "Добавлены понятные сообщения о состоянии смены при входе, открытии и закрытии; индикатор смены в шапке; предупреждение о смене старше 24 часов."
 }
